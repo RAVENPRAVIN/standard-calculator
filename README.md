@@ -145,7 +145,8 @@ form input.operator{
 
 ```
 ## OUTPUT:
-![output](calculator.png)
+[calculator](https://github.com/RAVENPRAVIN/standard-calculator/assets/146820534/bdb540cc-1bda-4475-9492-5b3bd1bbefb2)
+
 ## Result:
 The simple calculator website had excuted successfully
 
