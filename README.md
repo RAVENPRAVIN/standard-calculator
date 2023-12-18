@@ -7,16 +7,16 @@ To design a web application for a standard calculator.
 ## DESIGN STEPS:
 
 ### Step 1:
-Fork the given repository and make some changes in settings.py file
+Fork the given repository and make some changes in the settings.py file
 
 ### Step 2:
-create a html file for calculation and a basic overview of clculator and make a code for background calculation in html itself
+create a html file for calculation and a basic overview of the calculator and make a code for the background calculation in html itself
 
 ### Step 3:
-create a css file for give a desing for our calculator
+create a css file to give a design for our calculator
 
 ### Step 4:
-join the two file with a code
+join the two files with a code
 
 ### Step 5:
 Validate the HTML and CSS code.
@@ -145,8 +145,9 @@ form input.operator{
 
 ```
 ## OUTPUT:
-[calculator](https://github.com/RAVENPRAVIN/standard-calculator/assets/146820534/bdb540cc-1bda-4475-9492-5b3bd1bbefb2)
+![calculator](https://github.com/RAVENPRAVIN/standard-calculator/assets/146820534/98d45b48-e287-41da-a3dc-d688d57b64cd)
+
 
 ## Result:
-The simple calculator website had excuted successfully
+The simple calculator website was executed successfully
 
